@@ -1,0 +1,23 @@
+{
+  "name": "typescriptcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meruyert93/Typescript_learning.git"
+  },
+  "author": "Meruyert Karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meruyert93/Typescript_learning/issues"
+  },
+  "homepage": "https://github.com/meruyert93/Typescript_learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

@@ -1,4 +1,3 @@
-//Union type
 function combine(input1, input2, resultConversion //Literal type
 ) {
     var result;
